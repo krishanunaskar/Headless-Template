@@ -2,9 +2,9 @@
 // See index.d.ts for the full list of available options
 export default defineAppConfig({
     // Shows in the <title> tag before the name of the page
-    titlePrefix: "Example Store",
+    titlePrefix: "FusionMc",
     // The name of your store
-    storeName: "Example Store",
+    storeName: "FusionMc Store",
     // Require the user to login before they add items?
     auth: true,
     // Use external auth methods, e.g. CFX, Steam (Set to false for minecraft stores)
@@ -12,11 +12,11 @@ export default defineAppConfig({
     // The unique ID of the store
     storeId: 45295,
     // A link to your main site (optional)
-    mainSiteUrl: "https://example.com",
+    mainSiteUrl: "https://fusionmc.fun",
     // A discord invite url (optional)
-    discordUrl: "https://discord.gg/example",
+    discordUrl: "https://discord.fusionmc.fun",
     // A IP of your server which to display (optional)
-    serverIp: "play.example.com",
+    serverIp: "play.fusionmc.fun",
     // Reveal the sidebar when an item is added to the cart?
     showCartOnAdd: true,
     // Show confetti after checkout?
